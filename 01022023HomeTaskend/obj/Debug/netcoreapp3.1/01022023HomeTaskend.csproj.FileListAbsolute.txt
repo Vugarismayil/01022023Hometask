@@ -1,0 +1,14 @@
+C:\Users\ivuqa\source\repos\01022023HomeTaskend\01022023HomeTaskend\bin\Debug\netcoreapp3.1\01022023HomeTaskend.exe
+C:\Users\ivuqa\source\repos\01022023HomeTaskend\01022023HomeTaskend\bin\Debug\netcoreapp3.1\01022023HomeTaskend.deps.json
+C:\Users\ivuqa\source\repos\01022023HomeTaskend\01022023HomeTaskend\bin\Debug\netcoreapp3.1\01022023HomeTaskend.runtimeconfig.json
+C:\Users\ivuqa\source\repos\01022023HomeTaskend\01022023HomeTaskend\bin\Debug\netcoreapp3.1\01022023HomeTaskend.runtimeconfig.dev.json
+C:\Users\ivuqa\source\repos\01022023HomeTaskend\01022023HomeTaskend\bin\Debug\netcoreapp3.1\01022023HomeTaskend.dll
+C:\Users\ivuqa\source\repos\01022023HomeTaskend\01022023HomeTaskend\bin\Debug\netcoreapp3.1\01022023HomeTaskend.pdb
+C:\Users\ivuqa\source\repos\01022023HomeTaskend\01022023HomeTaskend\obj\Debug\netcoreapp3.1\01022023HomeTaskend.csproj.AssemblyReference.cache
+C:\Users\ivuqa\source\repos\01022023HomeTaskend\01022023HomeTaskend\obj\Debug\netcoreapp3.1\01022023HomeTaskend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivuqa\source\repos\01022023HomeTaskend\01022023HomeTaskend\obj\Debug\netcoreapp3.1\01022023HomeTaskend.AssemblyInfoInputs.cache
+C:\Users\ivuqa\source\repos\01022023HomeTaskend\01022023HomeTaskend\obj\Debug\netcoreapp3.1\01022023HomeTaskend.AssemblyInfo.cs
+C:\Users\ivuqa\source\repos\01022023HomeTaskend\01022023HomeTaskend\obj\Debug\netcoreapp3.1\01022023HomeTaskend.csproj.CoreCompileInputs.cache
+C:\Users\ivuqa\source\repos\01022023HomeTaskend\01022023HomeTaskend\obj\Debug\netcoreapp3.1\01022023HomeTaskend.dll
+C:\Users\ivuqa\source\repos\01022023HomeTaskend\01022023HomeTaskend\obj\Debug\netcoreapp3.1\01022023HomeTaskend.pdb
+C:\Users\ivuqa\source\repos\01022023HomeTaskend\01022023HomeTaskend\obj\Debug\netcoreapp3.1\01022023HomeTaskend.genruntimeconfig.cache
